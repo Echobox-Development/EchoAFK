@@ -1,0 +1,17 @@
+# im sorry, this config is going to be ugly
+
+region:
+  corner1:
+    world: "world"
+    x: 312
+    y: 52
+    z: 85
+  corner2:
+    world: "world"
+    x: 326
+    y: 61
+    z: 98
+
+afk:
+  reward-interval: 10
+  base-amount: 1
